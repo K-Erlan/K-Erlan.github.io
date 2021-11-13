@@ -14,6 +14,7 @@
 ## It'll present to you reliable shops and video 
 
 # Don't worry! 
-## Just follow to this web-page to learn more :)
+## Just follow to this web-page to learn more :) 
+https://k-erlan.github.io/
 
 ![ссылка на фото](https://cdn1.worldpng.ru/uploads/2021/3/18/4d28f8a633dd6891549ce526ca5c9f6c-full.jpg)
