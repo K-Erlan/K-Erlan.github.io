@@ -11,6 +11,10 @@ div.main {
 	padding-top: 6%;
 }
 
+div.col-md-12 img {
+	background-attachment: fixed;
+}
+
 a.navbar-brand {
 	font-weight: bold;
 	font-size: 2em;
