@@ -7,10 +7,10 @@
 # Secondly.
 ### How to choose the right frame. 
 
-#Thirdly. 
+# Thirdly. 
 ### Will be explained, how to ride a bike in sand and mud. 
 
-#Fourthly
+# Fourthly
 ## It'll present to you reliable shops and video 
 
 # Don't worry! 
