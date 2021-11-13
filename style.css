@@ -1,0 +1,180 @@
+div.container {
+	max-width: 1000px;
+
+}
+
+div.main {
+	background-image: url("img/back.jpg");
+	height: 560px;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 6%;
+}
+
+a.navbar-brand {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+div.main h1 {
+	font-family: 'Blippo', fantasy;
+	font-size: 4.5em;
+	text-shadow: white 4px -2px 3px; 
+}
+
+div.main h2 {
+	font-family: 'Cairo', sans-serif;
+	margin-bottom: 3%;
+	font-weight: bold;
+	color: floralwhite;
+}
+
+div.main a.btn {
+	background-color: crimson;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: white;
+	padding: 1% 5%;
+	border-radius: 30px;
+}
+
+div.section {
+	padding-top: 3%;
+}
+
+div.row h1 {
+	font-family: 'Cairo', sans-serif;
+}
+
+div.row p {
+	font-family: 'Andale Mono', monospace;
+	font-size: 1.3em;
+}
+
+div.col-md-6 {
+	border-image-width: 3;
+}
+
+div#store {
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	border-bottom: 2px solid black;
+}
+
+div.register {
+	font-size: 1.90em;
+	text-align: center;
+}
+
+div.footer h1 {
+	font-size: 1.75em;
+	text-align: center;
+	color: grey;
+}
+
+div.footer h1 {
+	list-style-type: none;
+	padding-left: 0;
+	text-align: center;
+}
+
+div.footer h1 {
+
+	color: white;
+}
+
+.submit {
+	height: 150px;
+
+}
+
+div.footer {
+	height: 150px;
+	background-color: #FFD700;
+}
+
+div.col-md-4 li {
+	font-style: oblique;
+}
+
+div.col-md-12 h1 {
+
+	text-align: center;
+}
+
+div.col-md-12 p {
+
+	text-align: center;
+}
+
+div.col-md-4 h1 {
+
+	font-weight: bold;
+}
+
+.footer {
+    height: 135px;
+}
+
+.footer .container {
+    width: 100%;
+    height: 100%;
+}
+
+.footer__inner {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.animation {
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: transparent;
+    letter-spacing: 3px;
+}
+
+.animation:before {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    color: #000;
+    overflow: hidden;
+    border-right: 3px solid #000;
+    animation: type 6s steps(500) infinite;
+    white-space: nowrap;
+}
+
+@keyframes type
+{
+    0%
+    {
+        width: 0;
+    }
+    50%
+    {
+        width: 100%;
+    }
+    100%
+    {
+        width: 0;
+    }
+
+}
+
+.num {
+    color: #000;
+    margin: auto 0;
+    font-size: 1.5em;
+    letter-spacing: 3px;
+    padding: 90px 0 0 0;
+
+}
