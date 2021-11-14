@@ -3,6 +3,7 @@
 
 # Firstly
 ### In this page you will know about history of bicycle. 
+![animation](https://user-images.githubusercontent.com/73570898/141682249-f8279dba-1c77-4c46-9a47-d8f6e1be1d76.jpg)
 
 # Secondly.
 ### How to choose the right frame. 
