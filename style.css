@@ -1,6 +1,8 @@
 div.container {
 	max-width: 1000px;
 	min-height: 25px;
+	min-width: 25px;
+	max-height: 800px;
 
 }
 
@@ -104,11 +106,6 @@ div.col-md-12 h1 {
 	text-align: center;
 }
 
-div.col-md-12 img {
-	max-width: 990px;
-	min-height: 25px;
-}
-
 div.col-md-12 p {
 
 	text-align: center;
@@ -118,6 +115,15 @@ div.col-md-4 h1 {
 
 	font-weight: bold;
 }	
+
+div.row iframe {
+	max-width: 900px;
+	min-height: 25px;
+	margin: auto 0;
+
+}
+
+
 
 .footer {
     height: 135px;
