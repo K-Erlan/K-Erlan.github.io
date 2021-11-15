@@ -1,5 +1,6 @@
 div.container {
 	max-width: 1000px;
+	min-height: 25px;
 
 }
 
@@ -103,6 +104,11 @@ div.col-md-12 h1 {
 	text-align: center;
 }
 
+div.col-md-12 img {
+	max-width: 990px;
+	min-height: 25px;
+}
+
 div.col-md-12 p {
 
 	text-align: center;
@@ -111,7 +117,7 @@ div.col-md-12 p {
 div.col-md-4 h1 {
 
 	font-weight: bold;
-}
+}	
 
 .footer {
     height: 135px;
