@@ -123,63 +123,8 @@ div.row iframe {
 
 }
 
-
-
-.footer {
-    height: 135px;
-}
-
-.footer .container {
-    width: 100%;
-    height: 100%;
-}
-
-.footer__inner {
-    height: 100%;
-    width: 100%;
-    position: relative;
-    display: flex;
-    justify-content: center;
-}
-
-.animation {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    color: transparent;
-    letter-spacing: 3px;
-}
-
-.animation:before {
-    content: attr(data-text);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    color: #000;
-    overflow: hidden;
-    border-right: 3px solid #000;
-    animation: type 6s steps(500) infinite;
-    white-space: nowrap;
-}
-
-@keyframes type
-{
-    0%
-    {
-        width: 0;
-    }
-    50%
-    {
-        width: 100%;
-    }
-    100%
-    {
-        width: 0;
-    }
-
+div.col-md-6 p {
+	margin: auto 0;
 }
 
 .num {
